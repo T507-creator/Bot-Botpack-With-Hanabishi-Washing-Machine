@@ -27,18 +27,18 @@
   ],
   "eventDisabled": [],
   "OWNER": "Jonell Magallanes",
-  "BOTNAME": "CC PROJECTS",
-  "PREFIX": "?",
+  "BOTNAME": "Trashy💫",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "100036956043695",
+    "100079267516878",
     ""
   ],
   "DESIGN": {
     "Title": "CC PROJECT",
     "Theme": "BLUE",
-    "Admin": "Jonell Magallanes",
+    "Admin": "Thataone",
     "Setup": {
-      "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+      "Info": "My owner is thataone",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
     }
   },
